@@ -31,6 +31,12 @@ I enjoy building complete applications from idea to deployment, with a strong fo
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 🧪 Software Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-4B0082?style=for-the-badge&logo=googletasks&logoColor=white)
+![STLC](https://img.shields.io/badge/STLC-FF6F00?style=for-the-badge&logo=testcafe&logoColor=white)
+
 ### ⚡ Real-time
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=websocket&logoColor=white)
