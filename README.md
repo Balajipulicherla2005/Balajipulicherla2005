@@ -55,6 +55,9 @@ I enjoy building complete applications from idea to deployment, with a strong fo
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
